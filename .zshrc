@@ -30,4 +30,3 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=244"
 
 fastfetch --logo Panwah --logo-color-2 red --logo-color-1 white
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
-export GEMINI_API_KEY="AIzaSyA2GnRQQ5zOt8RTJNY40uzyqAlnJ1-xa98"
